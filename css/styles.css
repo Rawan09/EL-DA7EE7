@@ -1,0 +1,22 @@
+body {
+  background-color: lightgrey;
+  
+}
+
+h1 {
+  
+  color: purple;
+  text-align: center;
+  font-size: 80px
+}
+
+h2 {
+  border-style: double;
+  text-align: center;
+  color: black;
+}
+
+p {
+  text-align: center;
+  color: black;
+}
